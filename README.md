@@ -17,7 +17,7 @@
 
 ## Open Source Projects
 
-- 🖥️ **[wmux](https://github.com/fernandomenuk/wmux)** - tmux for Windows -- split panes, tabbed workspaces, and a JSON-RPC socket API for AI agents
+- 🖥️ **[wmux](https://github.com/fernandomenuk/wmux)** - cmux for Windows -- split panes, tabbed workspaces, and a JSON-RPC socket API for AI agents
 - 📋 **[GrabIt](https://github.com/menukfernando/GrabIt)** - Real-time text sharing across devices
 - 🧭 **[openspec](https://github.com/fernandomenuk/openspec)** - Universal AI context transpiler. Define once, spec everywhere. Generates CLAUDE.md, .cursorrules, GEMINI.md, AGENTS.md from a single source of truth
 - ✂️ **[vscode-comment-remover](https://github.com/fernandomenuk/vscode-comment-remover)** - VS Code extension to strip comments from your code
