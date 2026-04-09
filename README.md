@@ -26,23 +26,6 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/fernandomenuk)
 
-<a href="https://github.com/fernandomenuk">
-  <img
-    alt="Menuk's Github Stats"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=fernandomenuk&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-    height="192px"
-    width="49.5%"
-  />
-</a>
-<a href="https://github.com/fernandomenuk">
-  <img
-    alt="Menuk's Top Languages"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=fernandomenuk&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
-    height="192px"
-    width="49.5%"
-  />
-</a>
-
 ## What I'm Doing
 
 - **Building developer tools** - From terminal multiplexers to AI context transpilers
